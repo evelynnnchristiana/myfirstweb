@@ -1,6 +1,6 @@
-body{ 
-    background-color: blueviolet; 
-    text-align: center; 
-    font-size: medium; 
-    font-family: 'Times new roman'; 
+h1 { 
+    color: blueviolet; 
+   font-size: 60px;
+   font: Arial;font-weight: bold;text-align: center; 
+   letter-spacing: 20px;
 }
